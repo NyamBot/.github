@@ -1,9 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/6700cf3c-886c-44bb-b7a4-383af3edd2e7" width="30" /> NyamBot
-
-<br>
-
-## 프로젝트 소개
-
+# <img src="https://github.com/user-attachments/assets/a33ca9c8-315d-4fb7-b5c1-dcb6d5f50cf0" width="40" alt="NyamBot 로고" style="vertical-align: -100px;" /> NyamBot
 ### 오늘 뭐 먹지? 를 해결해주는 AI 맛집 추천 챗봇
 
 **NyamBot**은 사용자가 저장한 맛집 기록과 현재 위치, 음식 취향을 바탕으로 다음에 갈 만한 식당을 추천해주는 AI 맛집 추천 서비스입니다.
@@ -65,10 +60,3 @@
 
 ## 시연 화면
 <img width="400" height="670" alt="nyambot_ZCBJG1Mo" src="https://github.com/user-attachments/assets/1987f867-c48a-4f36-8f93-b34cbd37a950" />
-
-
-<div align="center">
-  <img src="스크린샷_URL" width="240">
-  <img src="스크린샷_URL" width="240">
-  <img src="스크린샷_URL" width="240">
-</div>
